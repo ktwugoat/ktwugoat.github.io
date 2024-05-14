@@ -23,26 +23,25 @@ subtitle: LEAD Group members
 	</a>
 </div>
 <br>
-<img src="/people/images/Woo_cnir_3.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Choong-Wan (Wani) is the director of the <span style="font-size: 15px !important; color: #BD0026;">Cocoan lab</span>. His research focuses on understanding how the human brain represents, processes, and regulates pain and emotions using machine learning and computational modeling. He received his dual PhD in the <a href="http://www.colorado.edu/psych-neuro/">Department of Psychology and Neuroscience</a> and the <a href="http://www.colorado.edu/ics/">Institute of Cognitive Sciences</a> from the University of Colorado Boulder (PhD advisor: <a href="http://wagerlab.colorado.edu/">Tor D. Wager</a>), and MA in Clinical psychology and BS in Biology from Seoul National University. He has received many awards including the <a href="http://www.fulbright.or.kr/?language=en">Fulbright Graduate Study Award</a> from Korea and US governments, the Carol B. Lynch Graduate Fellowship from the graduate school of the University of Colorado Boulder, and the Heyer Award from the Department of Psychology and Neuroscience. Currently, he is an assistant professor at the IBS Center for Neuroscience Imaging Research and the Department of Biomedical Engineering in the Sungkyunkwan University (SKKU). </span>
+<img src="/people/images/Liang.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Dr. Zong-Liang Yang is a Professor in the Department of Geological Sciences, Jackson School of Geosciences and currently holds the John A. and Katherine G. Jackson Chair in Earth System Sciences. He is also a holder of Dave P. Carlton Centennial Professorship in Geology and Director of the Center for Integrated Earth System Science at the University of Texas at Austin. He has authored more than 170 peer-reviewed journal articles (with a Web of Knowledge h-index of 53, total citation 13200 and a Google Scholar h-index of 64, total citation 22600). He teaches classes on physical climatology, hydroclimatology, land atmosphere interaction dynamics, and climate change. He has graduated 16 PhD students and 3 MS thesis students since coming to Austin in 2001. Before joining the faculty at UT-Austin, Dr. Yang was a postdoc and then research faculty at the University of Arizona and he holds a Ph.D. degree in Atmospheric Sciences from Macquarie University and an MS in Meteorology from University of Melbourne in Australia.
+His research focuses on understanding and modeling of land-atmosphere exchanges of energy, mass and momentum, quantifying land climate interaction & feedback strengths, and exploring important applications of societal relevance such as prediction of hydrological extremes (floods and droughts). His approaches include theoretical work, data analysis and numerical modeling. His terrestrial hydrological parameterizations and land surface models (CLM and Noah-MP) are used by the U.S. National Center for Atmospheric Research (in two of its premier models, the Community Earth System Model and the Weather Research Forecasting model), the U.S. National Centers for Environmental Prediction (the Climate Forecast System), the U.S. National Water Center (the National Water Model) and other major modeling centers worldwide. These predictive models have proven extremely critical and beneficial in climate applications and in accurately forecasting extreme weather and water events (including recent Hurricane Harvey) and associated impacts. He also develops innovative dynamic downscaling methods that generate high-resolution regional climate information for impact assessments and resource decision-making.
+</span>
 
-
-
-<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_April2019.pdf" target="_blank">CV</a> | <a href="https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en&oi=ao" target="_blank" >Google Scholar</a> | <a href="http://www.ibric.org/myboard/read.php?Board=tr_interview&id=122090&qinterview=Y&BackLink=L2hhbmJpdHNhL3RyZWF0aXNlX2luZGV4X2Zvcl9hdXRob3IucGhwP2lkYXV0aG9yaWQ9MjQ4MDEmUGFnZT0x" target="_blank" >한빛사인터뷰1</a> <a href="https://www.ibric.org/myboard/read.php?Board=hbs_after&id=712&Page=1" target="_blank">2</a> | <a href="https://m.blog.naver.com/PostView.nhn?blogId=ibs_official&logNo=221038275277&targetKeyword=&targetRecommendationCode=1&proxyReferer=https%3A%2F%2Fwww.google.com%2F" target="_blank">IBS인터뷰</a> | <a href="https://webzine.skku.edu/skkuzine/section/knowledge04.do?articleNo=34984&pager.offset=0&pagerLimit=10" target="_blank">성균웹진</a></span>
-
-
+<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_April2019.pdf" target="_blank">CV</a> | <a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en" target="_blank" >Google Scholar</a> </span>
 
 <br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b>
 <hr>
+
 <p id="Lada"></p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Lada Kohoutová
+	???????????????
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:ladakohoutova@gmail.com"  target="_top" title="ladakohoutova@gmail.com" style="margin-right: 8px">
+	<a href="mailto:???????????????"  target="_top" title="???????????????" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
@@ -182,7 +181,6 @@ subtitle: LEAD Group members
 
 <img src="/people/images/LeeDH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Donghee is a graduate student in the Cocoan lab. He joined the lab as a postbac RA 2019 spring and entered the graduate school 2020 spring. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. </span>
-
 
 
 <br><br><br><br><br>
