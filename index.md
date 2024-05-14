@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Dr. Eunsang Cho
+title: Land Environment and Atmospheric Dynamics Group
 permalink: /
-subtitle: HYDROLOGY, REMOTE SENSING, AND WATER RESOURCES IN RIGHT OF HUMAN & CLIMATE IMPACTS
+subtitle: land surface processes, climate modeling, land-atmosphere interaction, hydroclimatology, hydrometeorology
 ---
 
 <img src="img/hydrology.jpg" width="820" align="center"/>
