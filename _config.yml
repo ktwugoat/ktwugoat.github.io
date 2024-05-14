@@ -25,10 +25,12 @@ description: "?????????????????????????????"
 
 navbar-links:
   ?About: ""
-  ?People: "people/current"
+  ?People: 
+   - Current: "people/current"
+   - Alumni: "people/alumni"
   ?Prospective Students: ""
   # ?News: "news/2024"
-   # - 2020: "news/2020"
+  # - 2020: "news/2020"
   ?Research: 
    - ?Projects: "research/projects"
    - ?Codes: "research/codes"
