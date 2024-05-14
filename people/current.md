@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-subtitle: Cocoan lab members
+subtitle: LEAD Group members
 ---
 
 <p id="Wani"></p>
@@ -9,18 +9,18 @@ subtitle: Cocoan lab members
 <b><span style="font-size: 25px !important; color: #BD0026;">Lab director</span></b>
 <hr>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Choong-Wan Woo
+	Zong-Liang Yang
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:choongwan.woo@gmail.com"  target="_top" title="choongwan.woo@gmail.com" style="margin-right: 8px">
+	<a href="mailto:liang@jsg.utexas.edu"  target="_top" title="liang@jsg.utexas.edu" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/wanirepo/" target="_blank" title="wani github" style="margin-right: 8px">
-		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
-	</a>
-	<a href="https://twitter.com/choongwanwoo/" target="_blank" title="wani twitter" style="margin-right: 8px">
+<!-- 	<a href="https://github.com/wanirepo/" target="_blank" title="wani github" style="margin-right: 8px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/> -->
+<!-- 	</a> -->
+	<a href="https://twitter.com/zlyang/" target="_blank" title="zlyang twitter" style="margin-right: 8px">
 		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
-	</a> 
+	</a>
 </div>
 <br>
 <img src="/people/images/Woo_cnir_3.jpg" width="150" height="215" align="left" hspace="20" />
