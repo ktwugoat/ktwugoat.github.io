@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Land Environment and Atmospheric Dynamics Group
-permalink: https://www.jsg.utexas.edu/climate/
+permalink: /
 subtitle: land surface processes, climate modeling, land-atmosphere interaction, hydroclimatology, hydrometeorology
 ---
 
