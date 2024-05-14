@@ -7,12 +7,20 @@ subtitle: land surface processes, climate modeling, land-atmosphere interaction,
 
 <img src="img/hydrology.jpg" width="820" align="center"/>
 
-<b><span style="font-size: 20px !important; color: #2a2eba;">Welcome! </span></b> <span style="font-size: 16px !important;"> I am a hydrologist who focuses on accurate and timely estimations and predictions of critical hydrologic fluxes, storages, and processes to advance water resources management, hydroclimate extreme prediction, and sustainable infrastructure design in a changing climate. For this, I use field observations, multiple remote sensing techniques (active and passive microwave, infrared, thermal, and gamma radiation) via UAV, aircraft, and satellite platforms, and climate and hydrological model simulations along with big-data analytics. 
-<b><span style="font-size: 15px !important; color: #2a2eba;">I am currently an Assistant Professor at <a href="https://www.txst.edu/">Texas State University</a>, San Marcos, TX, starting in Fall 2023</span></b>. Prior to this, I was a Postdoctoral/Assistant Research Scientist at <a href="https://science.gsfc.nasa.gov/earth/hydrology/">Hydrological Sciences Laboratory</a>, NASA Goddard Space Flight Center & <a href="http://essic.umd.edu/joom2/">Earth System Science Interdisciplinary Center</a>, University of Maryland at College Park. I also worked with Dr. Jennifer Jacobs at University of New Hampshire, where I obtained a Ph.D. in Civil and Environmental Engineering in May 2020. </span>  
+<b><span style="font-size: 20px !important; color: #2a2eba;">Welcome to Dr. Zong-Liang Yang’s Land Environment and Atmospheric Dynamics (LEAD) Group at UT-Austin.</span></b>
 
-<span style="font-size: 15px !important; color: #2A58E1;"><b> NASA | Earth's Water Cycle </b></span>
-<br>
-<center><iframe width="560" height="315" src="https://youtu.be/oaDkph9yQBs?si=MDmkGUu6tNR1oomK" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<span style="font-size: 16px !important;">The LEAD group consists of graduate research assistants, postdoctoral fellows, research scientists and visiting scholars. We view the earth system in a holistic way, linking the atmosphere, ocean, biosphere, cryosphere, and solid earth as an integrated system. We use powerful methodologies such as satellite remote sensing, earth system modeling, and high performance computing which are now profoundly changing research in earth system sciences. We place a strong emphasis on the societal impact of the research in earth system sciences. Specifically, we are working to answer a wide variety of earth science questions below.</span>
 
-<br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=echo-hydro.echo-hydro.github.io.issue.1)
+How does land shape climate, or vice versa, on all time and space scales?
+
+What has been the impact of human activity on the Earth?
+
+What is the future of our environment in the face of changing climate, land use and human demands?
+
+What is our prospect for regional and global river reanalysis? How can we predict river flows at continental and global scales?
+
+How accurate are climate models in simulating biosphere-hydrosphere-atmosphere interactions?
+
+What are their uncertainties? How can we improve them? How can we make decisions under uncertainties?
+
+Are current satellite datasets alone sufficient for monitoring our environmental conditions? How can we integrate satellite data in the decision making process?
