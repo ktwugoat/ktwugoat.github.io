@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Yang Lab
+title: ??Dr. Zong-Liang Yang
 
 # Short description of your site
 description: "?????????????????????????????"
@@ -68,10 +68,14 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Eunsang Cho
-  email: "eunsangcho86@gmail.com"
-  github: echo-hydro    # eg. daattali
-  twitter: Eunsang_UNH   # eg. daattali
+  # name: Eunsang Cho
+  # email: "eunsangcho86@gmail.com"
+  # github: echo-hydro    # eg. daattali
+  # twitter: Eunsang_UNH   # eg. daattali
+  name: Dr. Zong-Liang Yang
+  email: "liang@jsg.utexas.edu"
+  github: ???????    # eg. daattali
+  twitter: zlyang   # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
