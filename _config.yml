@@ -17,24 +17,42 @@ baseurl: ""
 title: Yang Lab
 
 # Short description of your site
-description: "Deepening our understanding of hydrology, water resources, and climate impacts for an uncertain future"
+description: "?????????????????????????????"
 
 # --- Navigation bar options --- #
 
-# List of links in the navigation bar
+# # List of links in the navigation bar
+
 navbar-links:
-  About: ""
-  News: "news/2020"
+  ?About: ""
+  ?People: "people/current"
+  ?Prospective Students: ""
+  # ?News: "news/2024"
    # - 2020: "news/2020"
-  Publication: "publication"
-  # People: "people/current" 
-  Research: 
-    - Projects: "research/projects"
-   # - Codes: "research/codes"
-   # - Data: "research/data"
-  Photos: "photos/photos" 
-  Videos: "videos/videos" 
+  ?Research: 
+   - ?Projects: "research/projects"
+   - ?Codes: "research/codes"
+   - ?Data: "research/data"
+  ?Publications: "publication"
+  ?Presentations: "presentation"
+  ?Courses: "course"
+  ?Photos: "photos"
+  # Videos: "videos"
   #CV: "https://drive.google.com/file/d/1uZrtJP8w9CClUFzx9vthnPH6lLDAwjTo/view?usp=sharing"
+
+# navbar-links:
+#   About: ""
+#   News: "news/2020"
+#    # - 2020: "news/2020"
+#   Publication: "publication"
+#   # People: "people/current" 
+#   Research: 
+#     - Projects: "research/projects"
+#    # - Codes: "research/codes"
+#    # - Data: "research/data"
+#   Photos: "photos/photos" 
+#   Videos: "videos/videos" 
+#   #CV: "https://drive.google.com/file/d/1uZrtJP8w9CClUFzx9vthnPH6lLDAwjTo/view?usp=sharing"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
